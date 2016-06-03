@@ -19,90 +19,6 @@
 		A4CF213E1D016F26004029C9 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4CF213D1D016F26004029C9 /* CoreFoundation.framework */; };
 		A4CF21401D016F2B004029C9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4CF213F1D016F2B004029C9 /* UIKit.framework */; };
 		A4CF21431D01707F004029C9 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A4CF21421D01707F004029C9 /* libz.tbd */; };
-		A4CF21801D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21471D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21811D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21471D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21821D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21471D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21831D017E6E004029C9 /* NSArray+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21491D017E6E004029C9 /* NSArray+WLAdd.m */; };
-		A4CF21841D017E6E004029C9 /* NSArray+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21491D017E6E004029C9 /* NSArray+WLAdd.m */; };
-		A4CF21851D017E6E004029C9 /* NSArray+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21491D017E6E004029C9 /* NSArray+WLAdd.m */; };
-		A4CF21861D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214B1D017E6E004029C9 /* NSBundle+WLAdd.m */; };
-		A4CF21871D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214B1D017E6E004029C9 /* NSBundle+WLAdd.m */; };
-		A4CF21881D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214B1D017E6E004029C9 /* NSBundle+WLAdd.m */; };
-		A4CF21891D017E6E004029C9 /* NSData+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214D1D017E6E004029C9 /* NSData+WLAdd.m */; };
-		A4CF218A1D017E6E004029C9 /* NSData+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214D1D017E6E004029C9 /* NSData+WLAdd.m */; };
-		A4CF218B1D017E6E004029C9 /* NSData+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214D1D017E6E004029C9 /* NSData+WLAdd.m */; };
-		A4CF218C1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214F1D017E6E004029C9 /* NSData+WLAddForHash.m */; };
-		A4CF218D1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214F1D017E6E004029C9 /* NSData+WLAddForHash.m */; };
-		A4CF218E1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF214F1D017E6E004029C9 /* NSData+WLAddForHash.m */; };
-		A4CF218F1D017E6E004029C9 /* NSDate+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21511D017E6E004029C9 /* NSDate+WLAdd.m */; };
-		A4CF21901D017E6E004029C9 /* NSDate+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21511D017E6E004029C9 /* NSDate+WLAdd.m */; };
-		A4CF21911D017E6E004029C9 /* NSDate+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21511D017E6E004029C9 /* NSDate+WLAdd.m */; };
-		A4CF21921D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21531D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m */; };
-		A4CF21931D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21531D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m */; };
-		A4CF21941D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21531D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m */; };
-		A4CF21951D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21551D017E6E004029C9 /* NSDictionary+WLAdd.m */; };
-		A4CF21961D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21551D017E6E004029C9 /* NSDictionary+WLAdd.m */; };
-		A4CF21971D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21551D017E6E004029C9 /* NSDictionary+WLAdd.m */; };
-		A4CF21981D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21571D017E6E004029C9 /* NSFileManager+WLAdd.m */; };
-		A4CF21991D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21571D017E6E004029C9 /* NSFileManager+WLAdd.m */; };
-		A4CF219A1D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21571D017E6E004029C9 /* NSFileManager+WLAdd.m */; };
-		A4CF219B1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21591D017E6E004029C9 /* NSIndexPath+WLAdd.m */; };
-		A4CF219C1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21591D017E6E004029C9 /* NSIndexPath+WLAdd.m */; };
-		A4CF219D1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21591D017E6E004029C9 /* NSIndexPath+WLAdd.m */; };
-		A4CF219E1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215B1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m */; };
-		A4CF219F1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215B1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m */; };
-		A4CF21A01D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215B1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m */; };
-		A4CF21A11D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215D1D017E6E004029C9 /* NSNumber+WLAdd.m */; };
-		A4CF21A21D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215D1D017E6E004029C9 /* NSNumber+WLAdd.m */; };
-		A4CF21A31D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215D1D017E6E004029C9 /* NSNumber+WLAdd.m */; };
-		A4CF21A41D017E6E004029C9 /* NSObject+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215F1D017E6E004029C9 /* NSObject+WLAdd.m */; };
-		A4CF21A51D017E6E004029C9 /* NSObject+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215F1D017E6E004029C9 /* NSObject+WLAdd.m */; };
-		A4CF21A61D017E6E004029C9 /* NSObject+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF215F1D017E6E004029C9 /* NSObject+WLAdd.m */; };
-		A4CF21A71D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21611D017E6E004029C9 /* NSObject+WLAddForKVO.m */; };
-		A4CF21A81D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21611D017E6E004029C9 /* NSObject+WLAddForKVO.m */; };
-		A4CF21A91D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21611D017E6E004029C9 /* NSObject+WLAddForKVO.m */; };
-		A4CF21AA1D017E6E004029C9 /* NSString+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21631D017E6E004029C9 /* NSString+WLAdd.m */; };
-		A4CF21AB1D017E6E004029C9 /* NSString+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21631D017E6E004029C9 /* NSString+WLAdd.m */; };
-		A4CF21AC1D017E6E004029C9 /* NSString+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21631D017E6E004029C9 /* NSString+WLAdd.m */; };
-		A4CF21AD1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21651D017E6E004029C9 /* NSString+WLAddForHash.m */; };
-		A4CF21AE1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21651D017E6E004029C9 /* NSString+WLAddForHash.m */; };
-		A4CF21AF1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21651D017E6E004029C9 /* NSString+WLAddForHash.m */; };
-		A4CF21B01D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21671D017E6E004029C9 /* NSString+WLAddForPinyin.m */; };
-		A4CF21B11D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21671D017E6E004029C9 /* NSString+WLAddForPinyin.m */; };
-		A4CF21B21D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21671D017E6E004029C9 /* NSString+WLAddForPinyin.m */; };
-		A4CF21B31D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21691D017E6E004029C9 /* NSString+WLAddForRegex.m */; };
-		A4CF21B41D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21691D017E6E004029C9 /* NSString+WLAddForRegex.m */; };
-		A4CF21B51D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21691D017E6E004029C9 /* NSString+WLAddForRegex.m */; };
-		A4CF21B61D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216B1D017E6E004029C9 /* NSString+WLAddForSize.m */; };
-		A4CF21B71D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216B1D017E6E004029C9 /* NSString+WLAddForSize.m */; };
-		A4CF21B81D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216B1D017E6E004029C9 /* NSString+WLAddForSize.m */; };
-		A4CF21B91D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216D1D017E6E004029C9 /* NSTimer+WLAdd.m */; };
-		A4CF21BA1D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216D1D017E6E004029C9 /* NSTimer+WLAdd.m */; };
-		A4CF21BB1D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216D1D017E6E004029C9 /* NSTimer+WLAdd.m */; };
-		A4CF21BC1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216F1D017E6E004029C9 /* NSUserDefaults+WLAdd.m */; };
-		A4CF21BD1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216F1D017E6E004029C9 /* NSUserDefaults+WLAdd.m */; };
-		A4CF21BE1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF216F1D017E6E004029C9 /* NSUserDefaults+WLAdd.m */; };
-		A4CF21BF1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21711D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21C01D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21711D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21C11D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21711D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21C21D017E6E004029C9 /* CALayer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21741D017E6E004029C9 /* CALayer+WLAdd.m */; };
-		A4CF21C31D017E6E004029C9 /* CALayer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21741D017E6E004029C9 /* CALayer+WLAdd.m */; };
-		A4CF21C41D017E6E004029C9 /* CALayer+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21741D017E6E004029C9 /* CALayer+WLAdd.m */; };
-		A4CF21C51D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21761D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21C61D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21761D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21C71D017E6E004029C9 /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4CF21761D017E6E004029C9 /* DeviceList.plist */; };
-		A4CF21C81D017E6E004029C9 /* UIColor+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21781D017E6E004029C9 /* UIColor+WLAdd.m */; };
-		A4CF21C91D017E6E004029C9 /* UIColor+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21781D017E6E004029C9 /* UIColor+WLAdd.m */; };
-		A4CF21CA1D017E6E004029C9 /* UIColor+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF21781D017E6E004029C9 /* UIColor+WLAdd.m */; };
-		A4CF21CB1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217A1D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21CC1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217A1D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21CD1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217A1D017E6E004029C9 /* UIDevice+WLAddForInfo.m */; };
-		A4CF21CE1D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217C1D017E6E004029C9 /* UIScreen+WLAdd.m */; };
-		A4CF21CF1D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217C1D017E6E004029C9 /* UIScreen+WLAdd.m */; };
-		A4CF21D01D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217C1D017E6E004029C9 /* UIScreen+WLAdd.m */; };
-		A4CF21D11D017E6E004029C9 /* UIView+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217E1D017E6E004029C9 /* UIView+WLAdd.m */; };
-		A4CF21D21D017E6E004029C9 /* UIView+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217E1D017E6E004029C9 /* UIView+WLAdd.m */; };
-		A4CF21D31D017E6E004029C9 /* UIView+WLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CF217E1D017E6E004029C9 /* UIView+WLAdd.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -143,61 +59,6 @@
 		A4CF213D1D016F26004029C9 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		A4CF213F1D016F2B004029C9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A4CF21421D01707F004029C9 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
-		A4CF21471D017E6E004029C9 /* DeviceList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DeviceList.plist; sourceTree = "<group>"; };
-		A4CF21481D017E6E004029C9 /* NSArray+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21491D017E6E004029C9 /* NSArray+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF214A1D017E6E004029C9 /* NSBundle+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF214B1D017E6E004029C9 /* NSBundle+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF214C1D017E6E004029C9 /* NSData+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF214D1D017E6E004029C9 /* NSData+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF214E1D017E6E004029C9 /* NSData+WLAddForHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+WLAddForHash.h"; sourceTree = "<group>"; };
-		A4CF214F1D017E6E004029C9 /* NSData+WLAddForHash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+WLAddForHash.m"; sourceTree = "<group>"; };
-		A4CF21501D017E6E004029C9 /* NSDate+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21511D017E6E004029C9 /* NSDate+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21521D017E6E004029C9 /* NSDate+WLAddForTimeAgo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+WLAddForTimeAgo.h"; sourceTree = "<group>"; };
-		A4CF21531D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+WLAddForTimeAgo.m"; sourceTree = "<group>"; };
-		A4CF21541D017E6E004029C9 /* NSDictionary+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21551D017E6E004029C9 /* NSDictionary+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21561D017E6E004029C9 /* NSFileManager+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSFileManager+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21571D017E6E004029C9 /* NSFileManager+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFileManager+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21581D017E6E004029C9 /* NSIndexPath+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSIndexPath+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21591D017E6E004029C9 /* NSIndexPath+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSIndexPath+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF215A1D017E6E004029C9 /* NSNotificationCenter+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNotificationCenter+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF215B1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNotificationCenter+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF215C1D017E6E004029C9 /* NSNumber+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF215D1D017E6E004029C9 /* NSNumber+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF215E1D017E6E004029C9 /* NSObject+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF215F1D017E6E004029C9 /* NSObject+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21601D017E6E004029C9 /* NSObject+WLAddForKVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+WLAddForKVO.h"; sourceTree = "<group>"; };
-		A4CF21611D017E6E004029C9 /* NSObject+WLAddForKVO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+WLAddForKVO.m"; sourceTree = "<group>"; };
-		A4CF21621D017E6E004029C9 /* NSString+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21631D017E6E004029C9 /* NSString+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21641D017E6E004029C9 /* NSString+WLAddForHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WLAddForHash.h"; sourceTree = "<group>"; };
-		A4CF21651D017E6E004029C9 /* NSString+WLAddForHash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WLAddForHash.m"; sourceTree = "<group>"; };
-		A4CF21661D017E6E004029C9 /* NSString+WLAddForPinyin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WLAddForPinyin.h"; sourceTree = "<group>"; };
-		A4CF21671D017E6E004029C9 /* NSString+WLAddForPinyin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WLAddForPinyin.m"; sourceTree = "<group>"; };
-		A4CF21681D017E6E004029C9 /* NSString+WLAddForRegex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WLAddForRegex.h"; sourceTree = "<group>"; };
-		A4CF21691D017E6E004029C9 /* NSString+WLAddForRegex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WLAddForRegex.m"; sourceTree = "<group>"; };
-		A4CF216A1D017E6E004029C9 /* NSString+WLAddForSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WLAddForSize.h"; sourceTree = "<group>"; };
-		A4CF216B1D017E6E004029C9 /* NSString+WLAddForSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WLAddForSize.m"; sourceTree = "<group>"; };
-		A4CF216C1D017E6E004029C9 /* NSTimer+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF216D1D017E6E004029C9 /* NSTimer+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF216E1D017E6E004029C9 /* NSUserDefaults+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSUserDefaults+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF216F1D017E6E004029C9 /* NSUserDefaults+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSUserDefaults+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21701D017E6E004029C9 /* UIDevice+WLAddForInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+WLAddForInfo.h"; sourceTree = "<group>"; };
-		A4CF21711D017E6E004029C9 /* UIDevice+WLAddForInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+WLAddForInfo.m"; sourceTree = "<group>"; };
-		A4CF21731D017E6E004029C9 /* CALayer+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21741D017E6E004029C9 /* CALayer+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21761D017E6E004029C9 /* DeviceList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DeviceList.plist; sourceTree = "<group>"; };
-		A4CF21771D017E6E004029C9 /* UIColor+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF21781D017E6E004029C9 /* UIColor+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF21791D017E6E004029C9 /* UIDevice+WLAddForInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+WLAddForInfo.h"; sourceTree = "<group>"; };
-		A4CF217A1D017E6E004029C9 /* UIDevice+WLAddForInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+WLAddForInfo.m"; sourceTree = "<group>"; };
-		A4CF217B1D017E6E004029C9 /* UIScreen+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScreen+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF217C1D017E6E004029C9 /* UIScreen+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF217D1D017E6E004029C9 /* UIView+WLAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WLAdd.h"; sourceTree = "<group>"; };
-		A4CF217E1D017E6E004029C9 /* UIView+WLAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WLAdd.m"; sourceTree = "<group>"; };
-		A4CF217F1D017E6E004029C9 /* WLKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLKit.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -253,7 +114,6 @@
 		A4CF20771D016E6F004029C9 /* Welian_Coco_Demo */ = {
 			isa = PBXGroup;
 			children = (
-				A4CF21441D017E6E004029C9 /* WLKit */,
 				A4CF207B1D016E6F004029C9 /* AppDelegate.h */,
 				A4CF207C1D016E70004029C9 /* AppDelegate.m */,
 				A4CF207E1D016E70004029C9 /* ViewController.h */,
@@ -302,100 +162,6 @@
 				A4CF213B1D016F21004029C9 /* CoreGraphics.framework */,
 			);
 			name = Framework;
-			sourceTree = "<group>";
-		};
-		A4CF21441D017E6E004029C9 /* WLKit */ = {
-			isa = PBXGroup;
-			children = (
-				A4CF21451D017E6E004029C9 /* Base */,
-				A4CF217F1D017E6E004029C9 /* WLKit.h */,
-			);
-			path = WLKit;
-			sourceTree = "<group>";
-		};
-		A4CF21451D017E6E004029C9 /* Base */ = {
-			isa = PBXGroup;
-			children = (
-				A4CF21461D017E6E004029C9 /* Foundation */,
-				A4CF21721D017E6E004029C9 /* Quartz */,
-				A4CF21751D017E6E004029C9 /* UIKit */,
-			);
-			path = Base;
-			sourceTree = "<group>";
-		};
-		A4CF21461D017E6E004029C9 /* Foundation */ = {
-			isa = PBXGroup;
-			children = (
-				A4CF21471D017E6E004029C9 /* DeviceList.plist */,
-				A4CF21481D017E6E004029C9 /* NSArray+WLAdd.h */,
-				A4CF21491D017E6E004029C9 /* NSArray+WLAdd.m */,
-				A4CF214A1D017E6E004029C9 /* NSBundle+WLAdd.h */,
-				A4CF214B1D017E6E004029C9 /* NSBundle+WLAdd.m */,
-				A4CF214C1D017E6E004029C9 /* NSData+WLAdd.h */,
-				A4CF214D1D017E6E004029C9 /* NSData+WLAdd.m */,
-				A4CF214E1D017E6E004029C9 /* NSData+WLAddForHash.h */,
-				A4CF214F1D017E6E004029C9 /* NSData+WLAddForHash.m */,
-				A4CF21501D017E6E004029C9 /* NSDate+WLAdd.h */,
-				A4CF21511D017E6E004029C9 /* NSDate+WLAdd.m */,
-				A4CF21521D017E6E004029C9 /* NSDate+WLAddForTimeAgo.h */,
-				A4CF21531D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m */,
-				A4CF21541D017E6E004029C9 /* NSDictionary+WLAdd.h */,
-				A4CF21551D017E6E004029C9 /* NSDictionary+WLAdd.m */,
-				A4CF21561D017E6E004029C9 /* NSFileManager+WLAdd.h */,
-				A4CF21571D017E6E004029C9 /* NSFileManager+WLAdd.m */,
-				A4CF21581D017E6E004029C9 /* NSIndexPath+WLAdd.h */,
-				A4CF21591D017E6E004029C9 /* NSIndexPath+WLAdd.m */,
-				A4CF215A1D017E6E004029C9 /* NSNotificationCenter+WLAdd.h */,
-				A4CF215B1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m */,
-				A4CF215C1D017E6E004029C9 /* NSNumber+WLAdd.h */,
-				A4CF215D1D017E6E004029C9 /* NSNumber+WLAdd.m */,
-				A4CF215E1D017E6E004029C9 /* NSObject+WLAdd.h */,
-				A4CF215F1D017E6E004029C9 /* NSObject+WLAdd.m */,
-				A4CF21601D017E6E004029C9 /* NSObject+WLAddForKVO.h */,
-				A4CF21611D017E6E004029C9 /* NSObject+WLAddForKVO.m */,
-				A4CF21621D017E6E004029C9 /* NSString+WLAdd.h */,
-				A4CF21631D017E6E004029C9 /* NSString+WLAdd.m */,
-				A4CF21641D017E6E004029C9 /* NSString+WLAddForHash.h */,
-				A4CF21651D017E6E004029C9 /* NSString+WLAddForHash.m */,
-				A4CF21661D017E6E004029C9 /* NSString+WLAddForPinyin.h */,
-				A4CF21671D017E6E004029C9 /* NSString+WLAddForPinyin.m */,
-				A4CF21681D017E6E004029C9 /* NSString+WLAddForRegex.h */,
-				A4CF21691D017E6E004029C9 /* NSString+WLAddForRegex.m */,
-				A4CF216A1D017E6E004029C9 /* NSString+WLAddForSize.h */,
-				A4CF216B1D017E6E004029C9 /* NSString+WLAddForSize.m */,
-				A4CF216C1D017E6E004029C9 /* NSTimer+WLAdd.h */,
-				A4CF216D1D017E6E004029C9 /* NSTimer+WLAdd.m */,
-				A4CF216E1D017E6E004029C9 /* NSUserDefaults+WLAdd.h */,
-				A4CF216F1D017E6E004029C9 /* NSUserDefaults+WLAdd.m */,
-				A4CF21701D017E6E004029C9 /* UIDevice+WLAddForInfo.h */,
-				A4CF21711D017E6E004029C9 /* UIDevice+WLAddForInfo.m */,
-			);
-			path = Foundation;
-			sourceTree = "<group>";
-		};
-		A4CF21721D017E6E004029C9 /* Quartz */ = {
-			isa = PBXGroup;
-			children = (
-				A4CF21731D017E6E004029C9 /* CALayer+WLAdd.h */,
-				A4CF21741D017E6E004029C9 /* CALayer+WLAdd.m */,
-			);
-			path = Quartz;
-			sourceTree = "<group>";
-		};
-		A4CF21751D017E6E004029C9 /* UIKit */ = {
-			isa = PBXGroup;
-			children = (
-				A4CF21761D017E6E004029C9 /* DeviceList.plist */,
-				A4CF21771D017E6E004029C9 /* UIColor+WLAdd.h */,
-				A4CF21781D017E6E004029C9 /* UIColor+WLAdd.m */,
-				A4CF21791D017E6E004029C9 /* UIDevice+WLAddForInfo.h */,
-				A4CF217A1D017E6E004029C9 /* UIDevice+WLAddForInfo.m */,
-				A4CF217B1D017E6E004029C9 /* UIScreen+WLAdd.h */,
-				A4CF217C1D017E6E004029C9 /* UIScreen+WLAdd.m */,
-				A4CF217D1D017E6E004029C9 /* UIView+WLAdd.h */,
-				A4CF217E1D017E6E004029C9 /* UIView+WLAdd.m */,
-			);
-			path = UIKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -502,9 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4CF20881D016E70004029C9 /* LaunchScreen.storyboard in Resources */,
-				A4CF21C51D017E6E004029C9 /* DeviceList.plist in Resources */,
 				A4CF20851D016E70004029C9 /* Assets.xcassets in Resources */,
-				A4CF21801D017E6E004029C9 /* DeviceList.plist in Resources */,
 				A4CF20831D016E70004029C9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -513,8 +277,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4CF21C61D017E6E004029C9 /* DeviceList.plist in Resources */,
-				A4CF21811D017E6E004029C9 /* DeviceList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -522,8 +284,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4CF21C71D017E6E004029C9 /* DeviceList.plist in Resources */,
-				A4CF21821D017E6E004029C9 /* DeviceList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -534,35 +294,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4CF21BC1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */,
-				A4CF21AA1D017E6E004029C9 /* NSString+WLAdd.m in Sources */,
-				A4CF21A11D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */,
-				A4CF21861D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */,
-				A4CF21891D017E6E004029C9 /* NSData+WLAdd.m in Sources */,
-				A4CF21B31D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */,
-				A4CF218C1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */,
-				A4CF21CB1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21A41D017E6E004029C9 /* NSObject+WLAdd.m in Sources */,
 				A4CF20801D016E70004029C9 /* ViewController.m in Sources */,
-				A4CF21831D017E6E004029C9 /* NSArray+WLAdd.m in Sources */,
-				A4CF21BF1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21A71D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */,
-				A4CF21B01D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */,
-				A4CF21C21D017E6E004029C9 /* CALayer+WLAdd.m in Sources */,
 				A4CF207D1D016E70004029C9 /* AppDelegate.m in Sources */,
 				A4CF207A1D016E6F004029C9 /* main.m in Sources */,
-				A4CF21951D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */,
-				A4CF21981D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */,
-				A4CF21B91D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */,
-				A4CF219E1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */,
-				A4CF21C81D017E6E004029C9 /* UIColor+WLAdd.m in Sources */,
-				A4CF218F1D017E6E004029C9 /* NSDate+WLAdd.m in Sources */,
-				A4CF21B61D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */,
-				A4CF21D11D017E6E004029C9 /* UIView+WLAdd.m in Sources */,
-				A4CF21CE1D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */,
-				A4CF21921D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */,
-				A4CF21AD1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */,
-				A4CF219B1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -571,32 +305,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4CF20931D016E70004029C9 /* Welian_Coco_DemoTests.m in Sources */,
-				A4CF219C1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */,
-				A4CF21B41D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */,
-				A4CF21BD1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */,
-				A4CF219F1D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */,
-				A4CF21A81D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */,
-				A4CF21CF1D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */,
-				A4CF21C91D017E6E004029C9 /* UIColor+WLAdd.m in Sources */,
-				A4CF218D1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */,
-				A4CF21B71D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */,
-				A4CF21A21D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */,
-				A4CF21B11D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */,
-				A4CF21991D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */,
-				A4CF21A51D017E6E004029C9 /* NSObject+WLAdd.m in Sources */,
-				A4CF21BA1D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */,
-				A4CF21841D017E6E004029C9 /* NSArray+WLAdd.m in Sources */,
-				A4CF21C01D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21C31D017E6E004029C9 /* CALayer+WLAdd.m in Sources */,
-				A4CF21871D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */,
-				A4CF21D21D017E6E004029C9 /* UIView+WLAdd.m in Sources */,
-				A4CF218A1D017E6E004029C9 /* NSData+WLAdd.m in Sources */,
-				A4CF21961D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */,
-				A4CF21AE1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */,
-				A4CF21901D017E6E004029C9 /* NSDate+WLAdd.m in Sources */,
-				A4CF21931D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */,
-				A4CF21CC1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21AB1D017E6E004029C9 /* NSString+WLAdd.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -605,32 +313,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4CF209E1D016E70004029C9 /* Welian_Coco_DemoUITests.m in Sources */,
-				A4CF219D1D017E6E004029C9 /* NSIndexPath+WLAdd.m in Sources */,
-				A4CF21B51D017E6E004029C9 /* NSString+WLAddForRegex.m in Sources */,
-				A4CF21BE1D017E6E004029C9 /* NSUserDefaults+WLAdd.m in Sources */,
-				A4CF21A01D017E6E004029C9 /* NSNotificationCenter+WLAdd.m in Sources */,
-				A4CF21A91D017E6E004029C9 /* NSObject+WLAddForKVO.m in Sources */,
-				A4CF21D01D017E6E004029C9 /* UIScreen+WLAdd.m in Sources */,
-				A4CF21CA1D017E6E004029C9 /* UIColor+WLAdd.m in Sources */,
-				A4CF218E1D017E6E004029C9 /* NSData+WLAddForHash.m in Sources */,
-				A4CF21B81D017E6E004029C9 /* NSString+WLAddForSize.m in Sources */,
-				A4CF21A31D017E6E004029C9 /* NSNumber+WLAdd.m in Sources */,
-				A4CF21B21D017E6E004029C9 /* NSString+WLAddForPinyin.m in Sources */,
-				A4CF219A1D017E6E004029C9 /* NSFileManager+WLAdd.m in Sources */,
-				A4CF21A61D017E6E004029C9 /* NSObject+WLAdd.m in Sources */,
-				A4CF21BB1D017E6E004029C9 /* NSTimer+WLAdd.m in Sources */,
-				A4CF21851D017E6E004029C9 /* NSArray+WLAdd.m in Sources */,
-				A4CF21C11D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21C41D017E6E004029C9 /* CALayer+WLAdd.m in Sources */,
-				A4CF21881D017E6E004029C9 /* NSBundle+WLAdd.m in Sources */,
-				A4CF21D31D017E6E004029C9 /* UIView+WLAdd.m in Sources */,
-				A4CF218B1D017E6E004029C9 /* NSData+WLAdd.m in Sources */,
-				A4CF21971D017E6E004029C9 /* NSDictionary+WLAdd.m in Sources */,
-				A4CF21AF1D017E6E004029C9 /* NSString+WLAddForHash.m in Sources */,
-				A4CF21911D017E6E004029C9 /* NSDate+WLAdd.m in Sources */,
-				A4CF21941D017E6E004029C9 /* NSDate+WLAddForTimeAgo.m in Sources */,
-				A4CF21CD1D017E6E004029C9 /* UIDevice+WLAddForInfo.m in Sources */,
-				A4CF21AC1D017E6E004029C9 /* NSString+WLAdd.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -756,6 +438,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Welian_Coco_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chuansongmen.Welian-Coco-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -767,6 +450,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Welian_Coco_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chuansongmen.Welian-Coco-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
